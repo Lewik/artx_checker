@@ -1,0 +1,9 @@
+test_test:
+    resource: "@TestTestBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+lewik_artx_check:
+    resource: "@LewikArtxCheckBundle/Resources/config/routing.yml"
+    prefix:   /
+

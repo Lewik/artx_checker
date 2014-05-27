@@ -1,0 +1,352 @@
+<html class="" lang="ru"><head>
+
+  <title>Главная страница :: Личный кабинет myLAN — Статья</title>
+  <meta name="viewport" content="width=device-width">
+<link rel="shortcut icon" href="img/cabinet.ico">
+	<link rel="stylesheet" href="css/koryan.css">
+  <link rel="stylesheet" href="css/less_style.css">
+
+  <!--[if lt IE 9]>
+ <script src="js/ie9.js"></script>
+  <![endif]-->
+	<script src="js/jquery.compressed.js"></script><style type="text/css"></style>
+	<script src="js/plugins.js"></script>
+	<script src="js/script.js"></script>
+<style type="text/css">
+<!--
+div.cabinet section.full{vertical-align:top;display:inline-block;width:80%}
+h4.pgtitle { display:none; }
+div.cabinet section.tmiddle{vertical-align:top;display:inline-block;width:65%; padding: 0.2em}
+div.cabinet section.tright{vertical-align:top;display:inline-block;width:32%; padding: 0.2em}
+div.cabinet section.nmiddle{vertical-align:top;display:inline-block;width:85%; padding: 0em}
+div.cabinet section.nright{vertical-align:top;display:inline-block;width:15%; padding: 0m}
+section.tariff table.buttons tr td.tdright {text-align:middle; }
+section.tariff table.buttons { width:100%; }
+table.tarset td { text-align:left; }
+-->
+</style>
+</head>
+<body class="overflow">
+	<div id="popup">
+		<div>			
+			<div>			
+				<h3>Телефоны технической поддержки</h3>
+				<table class="phones">
+					<tbody><tr>
+						<td>Из Москвы:</td>
+						<td>Из Черноголовки:</td>
+						<td>Из Ногинска:</td>
+					</tr>				
+					<tr>
+						<td>
+							<p>+7 (495) 950-59-01</p>
+							<p>+7 (495) 950-50-50</p>							
+						</td>
+						<td>
+							<p><span>+7 (49652)</span> 4-26-28</p>
+							<p>4-25-80</p>							
+							<p>2-51-19</p>
+							<p>2-59-46</p>
+						</td>
+						<td>
+							<p><span>+7 (49651)</span> 9-20-95</p>					
+						</td>
+					</tr>					
+				</tbody></table>
+
+				<h4>Центральный офис в Черноголовке</h4>
+				<a class="address" href="http://maps.yandex.ru/?um=09MK66viftXJc709INVNZ5tc0E3P8X6D&amp;l=map">Первый проезд, дом 4</a><br>
+				Электронная почта: <a href="mailto:info@artx.ru">info@artx.ru</a>
+				<h4>Офис в Ногинске</h4>
+				<a class="address" href="http://goo.gl/gOuHd">Площадь Бугрова, дом 1</a><br>
+				Телефон +7 (49651) 149-21
+
+			</div>
+		</div>
+		<a class="close"></a>
+	</div>
+	<div class="oldSite">
+		<p>Теперь у вас есть новый личный кабинет <!-- &mdash; <a href="#">узнайте его подробнее</a> --></p>
+		<p class="back"><a href="https://service.artx.ru/">Вернуться на прежнюю версию</a> <!-- (просуществует до 1 ноября)--></p>
+		<div class="close"><span>Закрыть</span><div></div></div>
+	</div>
+	<div class="header__top test blue"><div>
+	<div><span class="internet">Интернет блокирован<span class="off"></span></span>
+	 <span>Договор  от .. </span> <b>**OFFLINE**</b></div></div></div>
+
+		
+		<div class="mylan cabinet">
+		<!--[if lt IE 7]><p class="chromeframe">У вас <em>очень старый</em> браузер! <a class="link" href="http://abetterbrowser.org/ru" style="color: blue">Установите современный браузер!</a> Или <a class="link" href="http://www.google.com/chromeframe/?redirect=true" style="color: blue">установите Google Chrome Frame</a>, чтобы использовать этот сайт в полной мере.</p><![endif]-->
+			<header class="header">
+				<div class="projects"><a class="close"></a>
+					<table>
+						<tbody><tr class="img">
+							<td><a class="my_lan"></a></td>
+							<td><a class="artx"></a></td>
+							<td><a class="airmax"></a></td>
+							<td><a class="bitway"></a></td>
+						</tr>
+						<tr>
+							<td><a class="my_lan" href="#">Домашние сети</a></td>
+							<td><a class="artx" href="#">Компания АртЭКС</a></td>							
+							<td><a class="airmax" href="#">Беспроводные сети</a></td>
+							<td><a class="bitway" href="#">ADSL интернет</a></td>
+						</tr>
+					</tbody></table>
+				</div><div class="logo">
+					<a class="logo openProjects">MyLAN</a>
+					<a class="link link_pseudo openProjects" href="">Домашние сети</a>
+				</div><ul class="menu">
+					<li><a href="#" class="link">Услуги</a></li>
+					<li><a href="#" class="link">Оплата</a></li>
+					<li><a href="#" class="link">Техническая поддержка</a></li>
+					<li><a href="#" class="link">О проекте</a></li>
+				</ul><div class="right">
+					<div class="cabinet"></div>
+					<div class="account">Счёт <b> 0 руб.</b></div>
+					<div class="support">
+						<span>+7 (495) 950-59-01</span><br>
+						<a class="link link_pseudo" href="//mylan.ru/support">контактная информация</a>
+					</div>
+				</div>
+
+			</header>
+
+  <section role="main" class="main">
+    <h1 class="main__title">Новости</h1>
+
+    <section class="left">
+      <nav class="left-item">
+	
+            <li class="nav__item nav__item_active">
+              <a class="link">Новости</a>
+            </li>
+
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=common">Общая информация</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=connlog">Журнал работы</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=paylog">Журнал операций</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=ps">Платёжные системы</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=addcard">Оплата по карте</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=opa">Обещанный платёж</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=chpass">Изменение паролей</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=chtar">Изменение тарифа</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=services">Дополнительные услуги</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=soft">Полезные программы</a>
+            </li>
+
+
+
+            <li class="nav__item">
+              <a class="link" href="/r.php?action=help">Компьютерная помощь</a>
+            </li>
+
+
+	</nav>
+        <nav class="left-item nav_2">
+          <h1 class="nav__title">Ресурсы</h1>
+          <ul class="nav__ul">
+            <li class="nav__item">
+              <a class="link" href="http://mylan.ru/">Просмотр IPTV</a>
+            </li>
+            <li class="nav__item">
+              <a class="link" href="http://mylan.ru/">Радио</a>
+            </li>
+            <li class="nav__item">
+              <a class="link" href="http://mylan.ru/">Локальная сеть</a>
+            </li>
+            <li class="nav__item">
+              <a class="link" href="http://forum.mylan.ru/">Форум</a>
+            </li>
+            <li class="nav__item">
+              <a class="link" href="?action=soft">Программы</a>
+            </li>
+          </ul>
+        </nav>
+	</section><div class="right-wrapper blockElementWrapper">
+<!--
+	<script src="http://yandex.st/jquery/1.7.2/jquery.js"></script>
+-->
+			<section class="nmiddle article">
+		<h2>апрель 2014 г</h2>
+<table border="0" cellspacing="1" cellpadding="2">
+<tbody><tr><td align="left" bgcolor="white"><br><b><font color="#ff0000">21.04.2014</font> Уважаемые абоненты!</b><p>22 апреля 2014 года офис ЗАО "АртЭКС" в г. Ногинск по техническим причинам работает до 13-00. Приносим извинения за доставленные неудобства. <br></p></td></tr>
+<tr><td align="left" bgcolor="white"><br><b><font color="#ff0000">17.04.2014</font> Уважаемые абоненты!</b><p>18 апреля 2014 года офис ЗАО "АртЭКС" в г. Ногинск по техническим причинам работать не будет. Приносим извинения за доставленные неудобства. <br></p></td></tr>
+</tbody></table>	
+		</section><section class="nright">
+		    <div class="calendar-controls">
+			<a href="?action=news&amp;yr=2014&amp;yg=back"><span></span></a><p>2014</p><a href="?action=news&amp;yr=2014&amp;yg=fwd"><span></span></a>
+		    </div>
+		    <ul class="calendar">
+			<li><a href="?action=news&amp;yr=2014&amp;mn=1" class="off">Январь</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=2" class="off">Февраль</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=3" class="off">Март</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=4" class="off">Апрель</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=5" class="off">Май</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=6" class="off">Июнь</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=7" class="off">Июль</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=8" class="off">Август</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=9" class="off">Сентябрь</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=10" class="off">Октябрь</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=11" class="off">Ноябрь</a></li>
+			<li><a href="?action=news&amp;yr=2014&amp;mn=12" class="off">Декабрь</a></li>
+		    </ul>
+		</section>
+
+
+      </div><!-- .right-wrapper -->
+
+
+  </section>
+  </div><!-- .mylan -->
+
+ <footer class="footer">
+			<table>
+				<tbody><tr>
+					<td>© 2000-2012 ЗАО «АртЭКС»</td>
+					<td>
+						<div style="display:none;" class="footer__item footer__company-links">
+							<a class="link" href="">Лицензии</a>
+							<a class="link" href="">О компании</a>
+							<br>
+							<a class="link" href="">Контактная информация</a>
+						</div>
+					</td>
+					<td>
+						<div style="display:none;" class="footer__item footer__search">
+							<form action="search" class="search">
+								<div class="search__input-wrapper">
+									<input type="text" name="mylan-search" title="Поиск по сайту" class="search__input search__input_text">
+								</div>
+								<button class="search__input search__input_submit">Найти</button>
+							</form>
+							<a class="link footer__search-map" href="">Карта сайта</a>
+						</div>
+					</td>
+					<td></td>
+					<td>Дизайн — <a class="link" href="http://podhod.ru">Разумный подход</a></td>
+			</tr></tbody></table>	
+		</footer>
+  <script src="js/plugins.js"></script>
+  <script src="js/script.js"></script>
+
+  <script>
+	$("#popup .close").click(function(){
+		$("#popup").fadeOut();
+		return false;
+	})
+
+	$("div.support a").click(function(){
+		if($("#popup:visible").length)
+		{
+			$("#popup").fadeOut();
+		}
+		else
+		{
+			$("#popup").fadeIn();
+		}
+		return false;
+	})
+
+
+
+$("div.projects a.close").click(function(){
+		$("div.projects").animate({ width:'0px', opacity:'0'}, 250, function(){$("div.projects").hide()})
+		return false;
+	})
+
+	$("div.projects a.my_lan").click(function(){
+		$("div.projects").animate({ width:'0px', opacity:'0'}, 250, function(){$("div.projects").hide()})
+		return false;
+	})
+
+	$("div.projects").click(function(){
+		$("div.projects").animate({ width:'0px', opacity:'0'}, 250, function(){$("div.projects").hide()})
+		return false;
+	})
+
+
+	$("a.openProjects.link").click(function(){
+		
+		$("div.projects").show().animate({ width:'75%', opacity:'1'}, 250)
+		return false;
+	})
+
+	$("div.oldSite div.close *").click(function(){
+		$("div.oldSite").animate({height:'0px'}, 500, function(){
+			$(this).hide()
+		})
+	})
+
+	$("a.sitemap").click(function(){	
+		$("div.sitemap").toggle()
+			return false;
+	})
+
+	$("button.button2").click(function(){
+		$(this).parent().parent().animate({opacity: '0'}, 500, function() {
+
+	$(this).find('*').hide()
+
+		$(this).css("height","0px")
+		$(this).animate({ width: 'toggle'}, 500, 'swing', function(){
+			if($(this).parent().find("*:visible").length == 0)
+			{
+				$(this).parent().hide()
+			}
+		})
+	  });
+
+	})
+</script>
+
+
+</body></html>

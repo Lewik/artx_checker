@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <!--
+    <parameters>
+        <parameter key="lewik_artx_check.example.class">Lewik\ArtxCheckBundle\Example</parameter>
+    </parameters>
+-->
+    <services>
+        <service class="Lewik\ArtxCheckBundle\Command\ArtxCheckCommand" id="lewik_artxcheckbundle.artxcheckcommand">
+            <argument id="swiftmailer.mailer" type="service"/>
+            <argument>%email%</argument>
+            <argument>%phone%</argument>
+            <tag name="console.command"/>
+        </service>
+
+    </services>
+
+</container>
