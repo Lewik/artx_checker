@@ -16,3 +16,4 @@ app/check.php
 web/config.php
 /.idea
 *~
+base.serialised

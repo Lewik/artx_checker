@@ -67,7 +67,7 @@ class ArtxCheckCommand extends ContainerAwareCommand
      * @param $phones
      * @param $emails
      */
-    public function __construct(\Swift_Mailer $mailer, $phones, $emails)
+    public function __construct(\Swift_Mailer $mailer, $emails, $phones)
     {
         parent::__construct();
         $this->setMailer($mailer);
